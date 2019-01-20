@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>XP blog</title>
+  
+  <subtitle>Extreme Programming</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://xp-code.github.io/blog/"/>
+  <updated>2019-01-20T12:28:01.095Z</updated>
+  <id>https://xp-code.github.io/blog/</id>
+  
+  <author>
+    <name>xpcoder823@gmail.com</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>java_hello_run_depth</title>
+    <link href="https://xp-code.github.io/blog/2019/01/20/java-hello-run-depth/"/>
+    <id>https://xp-code.github.io/blog/2019/01/20/java-hello-run-depth/</id>
+    <published>2019-01-20T12:26:42.000Z</published>
+    <updated>2019-01-20T12:28:01.095Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>jdk_source_learn_env</title>
+    <link href="https://xp-code.github.io/blog/2019/01/20/jdk-source-learn-env/"/>
+    <id>https://xp-code.github.io/blog/2019/01/20/jdk-source-learn-env/</id>
+    <published>2019-01-20T12:25:45.000Z</published>
+    <updated>2019-01-20T12:28:01.095Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>git_hook</title>
+    <link href="https://xp-code.github.io/blog/2019/01/20/git-hook/"/>
+    <id>https://xp-code.github.io/blog/2019/01/20/git-hook/</id>
+    <published>2019-01-20T12:24:43.000Z</published>
+    <updated>2019-01-20T12:28:01.095Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>maven-learn</title>
+    <link href="https://xp-code.github.io/blog/2019/01/15/maven-learn/"/>
+    <id>https://xp-code.github.io/blog/2019/01/15/maven-learn/</id>
+    <published>2019-01-15T13:01:12.000Z</published>
+    <updated>2019-01-20T12:28:01.095Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>maven-site</title>
+    <link href="https://xp-code.github.io/blog/2019/01/15/maven-site/"/>
+    <id>https://xp-code.github.io/blog/2019/01/15/maven-site/</id>
+    <published>2019-01-15T13:00:45.000Z</published>
+    <updated>2019-01-20T12:28:01.095Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>API文档管理之 springfox 初探</title>
+    <link href="https://xp-code.github.io/blog/2019/01/15/springfox-learn/"/>
+    <id>https://xp-code.github.io/blog/2019/01/15/springfox-learn/</id>
+    <published>2019-01-15T12:58:43.000Z</published>
+    <updated>2019-01-20T12:28:01.095Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>前端性能优化</title>
+    <link href="https://xp-code.github.io/blog/2019/01/15/web-performance-optimization/"/>
+    <id>https://xp-code.github.io/blog/2019/01/15/web-performance-optimization/</id>
+    <published>2019-01-15T11:58:33.000Z</published>
+    <updated>2019-01-20T12:28:01.095Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;1、前端性能指标&quot;&gt;&lt;a href=&quot;#1、前端性能指标&quot; class=&quot;headerlink&quot; title=&quot;1、前端性能指标&quot;&gt;&lt;/a&gt;1、前端性能指标&lt;/h2&gt;&lt;h2 id=&quot;2、前端性能数据收集&quot;&gt;&lt;a href=&quot;#2、前端性能数据收集&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="stack" scheme="https://xp-code.github.io/blog/categories/stack/"/>
+    
+    
+      <category term="前端" scheme="https://xp-code.github.io/blog/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+  </entry>
+  
+</feed>
